@@ -1,0 +1,101 @@
+# Most recently edited files in Vim (version 3.0)
+/home/xin/.vimrc
+/home/xin/Downloads/Machine Learning/Programming Assignments/mlclass-ex4-007/mlclass-ex4/sigmoidGradient.m
+/home/xin/piksi_firmware/src/board/nap/nap_common.c
+/home/xin/piksi_firmware/src/board/nap/acq_channel.h
+/home/xin/piksi_firmware/src/board/nap/acq_channel.c
+/home/xin/piksi_firmware/src/init.h
+/home/xin/piksi_firmware/src/cw.h
+/home/xin/piksi_firmware/tests/code_phase_propagation/code_phase_propagation_test.c
+/home/xin/piksi_firmware/src/acq.c
+/home/xin/flexiband/driver/linux/src/Makefile
+/home/xin/flexiband/libusb_example/flexiband_record.c
+/home/xin/flexiband/README.md
+/home/xin/flexiband/driver/linux/README
+/home/xin/.bashrc
+/home/xin/introcs/checkstyle-6.1.1/checkstyle.xml
+/home/xin/Downloads/Machine Learning/Programming Assignments/mlclass-ex8-007/mlclass-ex8/cofiCostFunc.m
+/home/xin/Downloads/Machine Learning/Programming Assignments/mlclass-ex8-007/mlclass-ex8/ex8_cofi.m
+/home/xin/Downloads/Machine Learning/Programming Assignments/mlclass-ex8-007/mlclass-ex8/selectThreshold.m
+/home/xin/Downloads/Machine Learning/Programming Assignments/mlclass-ex8-007/mlclass-ex8/multivariateGaussian.m
+/home/xin/Downloads/Machine Learning/Programming Assignments/mlclass-ex8-007/mlclass-ex8/ex8.m
+/home/xin/Downloads/Machine Learning/Programming Assignments/mlclass-ex8-007/mlclass-ex8/estimateGaussian.m
+/home/xin/Downloads/Machine Learning/Programming Assignments/mlclass-ex7-007/mlclass-ex7/displayData.m
+/home/xin/Downloads/Machine Learning/Programming Assignments/mlclass-ex7-007/mlclass-ex7/projectData.m
+/home/xin/Downloads/Machine Learning/Programming Assignments/mlclass-ex7-007/mlclass-ex7/pca.m
+/home/xin/Downloads/Machine Learning/Programming Assignments/mlclass-ex7-007/mlclass-ex7/ex7_pca.m
+/home/xin/Downloads/Machine Learning/Programming Assignments/mlclass-ex7-007/mlclass-ex7/recoverData.m
+/home/xin/Downloads/Machine Learning/Programming Assignments/mlclass-ex7-007/mlclass-ex7/computeCentroids.m
+/home/xin/Downloads/Machine Learning/Programming Assignments/mlclass-ex7-007/mlclass-ex7/kMeansInitCentroids.m
+/home/xin/Downloads/Machine Learning/Programming Assignments/mlclass-ex7-007/mlclass-ex7/runkMeans.m
+/home/xin/Downloads/Machine Learning/Programming Assignments/mlclass-ex7-007/mlclass-ex7/findClosestCentroids.m
+/home/xin/Downloads/Machine Learning/Programming Assignments/mlclass-ex7-007/mlclass-ex7/ex7.m
+/home/xin/Downloads/Machine Learning/Programming Assignments/mlclass-ex6-007/mlclass-ex6/ex6_spam.m
+/home/xin/Downloads/Machine Learning/Programming Assignments/mlclass-ex6-007/mlclass-ex6/emailFeatures.m
+/home/xin/Downloads/Machine Learning/Programming Assignments/mlclass-ex6-007/mlclass-ex6/processEmail.m
+/home/xin/Downloads/Machine Learning/Programming Assignments/mlclass-ex6-007/mlclass-ex6/getVocabList.m
+/home/xin/Downloads/Machine Learning/Programming Assignments/mlclass-ex6-007/mlclass-ex6/readFile.m
+/home/xin/Downloads/Machine Learning/Programming Assignments/mlclass-ex6-007/mlclass-ex6/dataset3Params.m
+/home/xin/Downloads/Machine Learning/Programming Assignments/mlclass-ex6-007/mlclass-ex6/gaussianKernel.m
+/home/xin/Downloads/Machine Learning/Programming Assignments/mlclass-ex6-007/mlclass-ex6/svmPredict.m
+/home/xin/Downloads/Machine Learning/Programming Assignments/mlclass-ex6-007/mlclass-ex6/ex6.m
+/home/xin/Downloads/Machine Learning/Programming Assignments/mlclass-ex6-007/mlclass-ex6/visualizeBoundary.m
+/home/xin/Downloads/Machine Learning/Programming Assignments/mlclass-ex6-007/mlclass-ex6/svmTrain.m
+/home/xin/Downloads/Data Scientist/R Language/Programming/ProgrammingAssignment2/cachematrix.R
+/home/xin/Downloads/Data Scientist/R Language/Programming/cacheSolve.R
+/home/xin/Downloads/Data Scientist/R Language/Programming/makeCacheMatrix.R
+/home/xin/Downloads/Machine Learning/Programming Assignments/mlclass-ex5-007/mlclass-ex5/validationCurve.m
+/home/xin/Downloads/Machine Learning/Programming Assignments/mlclass-ex5-007/mlclass-ex5/learningCurve.m
+/home/xin/Downloads/Machine Learning/Programming Assignments/mlclass-ex5-007/mlclass-ex5/linearRegCostFunction.m
+/home/xin/Downloads/Machine Learning/Programming Assignments/mlclass-ex5-007/mlclass-ex5/ex5.m
+/home/xin/Downloads/Machine Learning/Programming Assignments/mlclass-ex5-007/mlclass-ex5/polyFeatures.m
+/home/xin/Downloads/Machine Learning/Programming Assignments/mlclass-ex5-007/mlclass-ex5/featureNormalize.m
+/home/xin/Downloads/Machine Learning/Programming Assignments/mlclass-ex5-007/mlclass-ex5/trainLinearReg.m
+/home/xin/Downloads/Machine Learning/Programming Assignments/mlclass-ex4-007/mlclass-ex4/nnCostFunction.m
+/home/xin/Downloads/Machine Learning/Programming Assignments/mlclass-ex4-007/mlclass-ex4/sigmoid.m
+/home/xin/Downloads/Machine Learning/Programming Assignments/mlclass-ex4-007/mlclass-ex4/debugInitializeWeights.m
+/home/xin/Downloads/Machine Learning/Programming Assignments/mlclass-ex4-007/mlclass-ex4/checkNNGradients.m
+/home/xin/Downloads/Machine Learning/Programming Assignments/mlclass-ex4-007/mlclass-ex4/ex4.m
+/home/xin/Downloads/Machine Learning/Programming Assignments/mlclass-ex4-007/mlclass-ex4/randInitializeWeights.m
+/home/xin/Downloads/Machine Learning/Programming Assignments/mlclass-ex2-007/mlclass-ex2/sigmoid.m
+/home/xin/Downloads/Machine Learning/Programming Assignments/mlclass-ex3-007/mlclass-ex3/predict.m
+/home/xin/Downloads/Machine Learning/Programming Assignments/mlclass-ex3-007/mlclass-ex3/lrCostFunction.m
+/home/xin/Downloads/Machine Learning/Programming Assignments/mlclass-ex3-007/mlclass-ex3/ex3_nn.m
+/etc/apt/sources.list
+/home/xin/algs4/graph/graph.java
+/home/xin/algs4/Percolation/WeightedQuickUnionUF.java
+/home/xin/algs4/week2/queue.java
+/home/xin/algs4/week2/iterable.java
+/home/xin/algs4/week2/stack.java
+/home/xin/algs4/week2/generics.java
+/home/xin/algs4/week2/w2-1.java
+/home/xin/Downloads/Machine Learning/Programming Assignments/mlclass-ex3-007/mlclass-ex3/ex3.m
+/home/xin/algs4/week1/w1-1.java
+/home/xin/Downloads/Machine Learning/Programming Assignments/mlclass-ex2-007/mlclass-ex2/ex2.m
+/home/xin/Downloads/Machine Learning/Programming Assignments/mlclass-ex2-007/mlclass-ex2/ex2_reg.m
+/home/xin/Downloads/Machine Learning/Programming Assignments/mlclass-ex2-007/mlclass-ex2/predict.m
+/home/xin/Downloads/Machine Learning/Programming Assignments/mlclass-ex2-007/mlclass-ex2/costFunctionReg.m
+/home/xin/Downloads/Machine Learning/Programming Assignments/mlclass-ex2-007/mlclass-ex2/costFunction.m
+/home/xin/algs4/w1-1.java
+/home/xin/UNICORN/README.md
+/home/xin/UNICORN/Makefile
+/home/xin/algs4/Percolation/Percolation.java
+/home/xin/algs4/Hello/HelloWorld.java
+/home/xin/algs4/WeightedQuickUnionUF.java
+/home/xin/algs4/ch1/w1-1.java
+/home/xin/algs4/ch1/w1-2.java
+/home/xin/datasciencecoursera/HelloWorld.md
+/home/xin/STEIN/README.md
+/home/xin/STEIN/objects/correlator.cpp
+/home/xin/STEIN/gse/src/gui_serial.cpp
+/home/xin/STEIN/gse/src/gui_pvt.cpp
+/home/xin/STEIN/gse/src/gui_pseudo.cpp
+/home/xin/STEIN/gse/src/gui_channel.cpp
+/home/xin/STEIN/gse/src/gui_ephemeris.cpp
+/home/xin/STEIN/gse/src/gui_almanac.cpp
+/home/xin/STEIN/objects/telemetry.cpp
+/home/xin/STEIN/objects/sv_select.cpp
+/home/xin/Linnaeus3/objects/sv_select.cpp
+/home/xin/STEIN/objects/pvt.cpp
+/home/xin/Linnaeus3/objects/pvt.cpp
+/home/xin/STEIN/objects/ephemeris.cpp
